@@ -1,0 +1,29 @@
+html {
+    font-family: 'Open Sans';
+
+}
+
+header {
+
+}
+
+nav {
+
+}
+
+ul {
+    list-style: none;
+    display: flex;
+    justify-content: space-around;
+}
+
+a {
+    text-decoration: none;
+    color: black;
+    font-weight: bold;
+}
+
+.hero {
+    display: block;
+    width: 100%
+}
