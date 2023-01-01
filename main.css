@@ -3,14 +3,6 @@ html {
 
 }
 
-header {
-
-}
-
-nav {
-
-}
-
 ul {
     list-style: none;
     display: flex;
@@ -26,4 +18,44 @@ a {
 .hero {
     display: block;
     width: 100%
+}
+
+#home-header {
+    text-align: center;
+}
+
+.center-text {
+    text-align: center;
+    margin-left: 5rem;
+    margin-right: 5rem;
+}
+
+fieldset {
+    margin: 4rem 10rem;
+    border-color: black;
+    border-width: 2px;
+}
+
+legend {
+    font-weight: bold;
+}
+
+.form-items {
+    display: flex;
+    justify-content: center;
+    padding: .5rem;
+
+}
+
+#name, #email, #comments {
+    border-color: black;
+    border-width: 1px;
+
+}
+
+#letter-signup {
+    margin: auto 15rem;
+    border-color: black;
+    border-width: 1px;
+    border-radius: 15%
 }
