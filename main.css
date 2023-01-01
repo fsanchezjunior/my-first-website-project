@@ -59,3 +59,15 @@ legend {
     border-width: 1px;
     border-radius: 15%
 }
+
+#about-header {
+    text-align: center;
+}
+
+#about-subheading {
+    text-align: center;
+}
+
+#competition-links {
+    margin-top: 4rem;
+}
