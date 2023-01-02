@@ -71,3 +71,14 @@ legend {
 #competition-links {
     margin-top: 4rem;
 }
+
+.team-pictures {
+    height: 10rem;
+    width: 12rem;
+    margin: 1rem 1rem;
+}
+
+#team-grid {
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr;
+}
